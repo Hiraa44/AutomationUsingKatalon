@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tracking Events_icon icon-m-information</name>
+   <tag></tag>
+   <elementGuidId>e6120d2c-8eb0-4380-8531-259d08395d4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.icon-m-information</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c92b9ae9-ed22-4b76-a76a-a3aab4367491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-m-information</value>
+      <webElementGuid>b7e084cf-6348-4cae-9294-8fd1bce07b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/app-layout[1]/div[@class=&quot;app-content&quot;]/div[@class=&quot;app-main-menu&quot;]/ul[@class=&quot;navbar-nav sidebar sidebar-dark&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@class=&quot;nav-link dropdown-toggle&quot;]/span[@class=&quot;icon icon-m-information&quot;]</value>
+      <webElementGuid>9a3d5434-7b2b-40b7-99ba-5d3b9e1f46ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/a/span</value>
+      <webElementGuid>7d6d9c69-4b68-41ea-bd30-092cd8d5b601</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

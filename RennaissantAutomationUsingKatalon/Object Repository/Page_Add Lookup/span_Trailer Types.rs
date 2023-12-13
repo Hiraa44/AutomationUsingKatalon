@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Trailer Types</name>
+   <tag></tag>
+   <elementGuidId>9c6f1f23-d66a-4d94-91d9-52b0db8f84ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//igx-combo-item[@id='igx-drop-down-item-15']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#igx-drop-down-item-15 > span.igx-drop-down__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6cb24d01-6e01-405b-9282-05e63a340f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>igx-drop-down__inner</value>
+      <webElementGuid>6d8573dd-9c62-412c-aa3e-58dbd1178f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Trailer Types
+</value>
+      <webElementGuid>061f8c05-c39e-4ae9-9b3d-45c21badcf98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;igx-drop-down-item-15&quot;)/span[@class=&quot;igx-drop-down__inner&quot;]</value>
+      <webElementGuid>f293ab6f-4d82-4caf-b3cc-4e772cc0e815</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//igx-combo-item[@id='igx-drop-down-item-15']/span</value>
+      <webElementGuid>390b7a40-c2bb-4ba6-9fda-88bb0c7a94a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//igx-combo-item[2]/span</value>
+      <webElementGuid>2fc50ed2-1632-47ef-81ac-040146602df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Trailer Types
+' or . = ' Trailer Types
+')]</value>
+      <webElementGuid>d656edb8-f96c-4fa1-9b60-91cd1ec9be08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

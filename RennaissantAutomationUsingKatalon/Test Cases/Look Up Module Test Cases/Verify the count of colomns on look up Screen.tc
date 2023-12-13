@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the count of colomns on look up Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5116684-c0f0-4557-ab33-39aa60a841dc</testCaseGuid>
+</TestCaseEntity>

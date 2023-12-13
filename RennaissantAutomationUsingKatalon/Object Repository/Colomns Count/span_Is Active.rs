@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Is Active</name>
+   <tag></tag>
+   <elementGuidId>e4fd203b-ec61-4cc5-8eab-c069aea94240</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//igx-grid-header-group[@id='FWLookupGrid_-1_0_5']/igx-grid-header/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FWLookupGrid_-1_0_5 > igx-grid-header.igx-grid__th.igx-grid__th--fw.igx-drag.igx-drag--select-disabled.ng-star-inserted > span.igx-grid__th-title > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af064323-61f4-45a3-a753-7beeb79cb92f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Is Active</value>
+      <webElementGuid>6701145d-9897-40f8-83b1-fd45eb632ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>fc79cb49-b349-449d-844d-d0ff923c811d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Is Active</value>
+      <webElementGuid>7934e398-d76e-4e0f-825a-28ced0521320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FWLookupGrid_-1_0_5&quot;)/igx-grid-header[@class=&quot;igx-grid__th igx-grid__th--fw igx-drag igx-drag--select-disabled ng-star-inserted&quot;]/span[@class=&quot;igx-grid__th-title&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>db562d74-84bf-42c1-b4ad-ed77bd9a2769</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//igx-grid-header-group[@id='FWLookupGrid_-1_0_5']/igx-grid-header/span/span</value>
+      <webElementGuid>e90504db-bc0f-407e-92ee-df6b5596f33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//igx-grid-header-group[5]/igx-grid-header/span/span</value>
+      <webElementGuid>64eb08e0-800f-4d24-b853-336359b70830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Is Active' and (text() = 'Is Active' or . = 'Is Active')]</value>
+      <webElementGuid>52de8618-f7e6-4af8-92c2-bbce8836d2ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

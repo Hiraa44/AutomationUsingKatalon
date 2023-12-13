@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sort Order</name>
+   <tag></tag>
+   <elementGuidId>5f9f42fd-94d8-4ab6-bd15-b93f08fcb31c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//igx-grid-header-group[@id='FWLookupGrid_-1_0_8']/igx-grid-header/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FWLookupGrid_-1_0_8 > igx-grid-header.igx-grid__th.igx-grid__th--fw.igx-grid__th--sortable.igx-drag.igx-drag--select-disabled.ng-star-inserted > span.igx-grid__th-title > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d091624c-5f5c-43bb-a14a-a3b03dc1633f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sort Order</value>
+      <webElementGuid>881f4409-2688-4c20-ad8e-611d82e6b105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>cd0ed2f1-77be-4032-9819-6caf4eb83fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sort Order</value>
+      <webElementGuid>dd9138d5-05c4-43b7-a799-3d396d6fa8c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FWLookupGrid_-1_0_8&quot;)/igx-grid-header[@class=&quot;igx-grid__th igx-grid__th--fw igx-grid__th--sortable igx-drag igx-drag--select-disabled ng-star-inserted&quot;]/span[@class=&quot;igx-grid__th-title&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>5edc0556-2348-49b2-9a0d-2e524a9cb605</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//igx-grid-header-group[@id='FWLookupGrid_-1_0_8']/igx-grid-header/span/span</value>
+      <webElementGuid>2f998787-1942-4558-b4b4-a4c478edd078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//igx-grid-header-group[5]/igx-grid-header/span/span</value>
+      <webElementGuid>4f3ebdcb-24f2-45e7-8719-c975351777f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Sort Order' and (text() = 'Sort Order' or . = 'Sort Order')]</value>
+      <webElementGuid>5ddb9300-1ea0-4199-9cef-b30d90b612f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

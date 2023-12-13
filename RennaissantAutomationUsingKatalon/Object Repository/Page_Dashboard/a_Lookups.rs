@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lookups</name>
+   <tag></tag>
+   <elementGuidId>14e214bd-0ccd-453e-85e4-72e5f662c002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.compact.dropdown-menu > div.dropdown-menu__items > div.dropdown-menu__item > div.marginForItem > ul.nav.flex-row > div.nav-item.widthOfChild > li > a.nav-link.text-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Lookups')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88d80561-de09-4a3c-9c2f-721a9e155475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link text-truncate</value>
+      <webElementGuid>50d02743-7eba-42ac-8501-1f17f240a845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Information/Lookups</value>
+      <webElementGuid>c262b503-d1bb-4f41-9415-0e6f664bd027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lookups </value>
+      <webElementGuid>596ac0c1-253b-4372-bd25-15e73fa83487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/app-layout[1]/div[@class=&quot;app-content&quot;]/div[@class=&quot;app-main-menu&quot;]/ul[@class=&quot;navbar-nav sidebar sidebar-dark&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;compact dropdown-menu&quot;]/div[@class=&quot;dropdown-menu__items&quot;]/div[@class=&quot;dropdown-menu__item&quot;]/div[@class=&quot;marginForItem&quot;]/ul[@class=&quot;nav flex-row&quot;]/div[@class=&quot;nav-item widthOfChild&quot;]/li[1]/a[@class=&quot;nav-link text-truncate&quot;]</value>
+      <webElementGuid>94cdfbd4-f324-47b7-bc71-3cc2f6ab9594</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lookups')]</value>
+      <webElementGuid>4fdd99a8-bf4e-4e76-aae9-942c63a7fb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Information/Lookups')]</value>
+      <webElementGuid>70a8644b-2366-4f32-a05b-9a7026985a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[2]/div/div/ul/div/li/a</value>
+      <webElementGuid>48d680a8-ce2d-4605-a4ef-e80a0a7aa034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Information/Lookups' and (text() = ' Lookups ' or . = ' Lookups ')]</value>
+      <webElementGuid>ce69d559-6aa8-4392-a14a-2d8ca6ef590e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ADD</name>
+   <tag></tag>
+   <elementGuidId>b4837ff8-f67b-4662-96db-e9b95ed505d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//igx-grid[@id='FWLookupGrid']/igx-grid-toolbar/div/div/ul/li/a/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > button.btn-primary.igx-button--flat</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ebffc18-cd50-4079-a917-6b748259d461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ssitooltip</name>
+      <type>Main</type>
+      <value>Add lookups</value>
+      <webElementGuid>289dbeac-07a7-4312-834a-f1c2b4138f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>igxbutton</name>
+      <type>Main</type>
+      <value>flat</value>
+      <webElementGuid>d8559373-ec01-48d2-ad10-08437d991dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary igx-button--flat</value>
+      <webElementGuid>98659474-de53-40f0-b858-5b024726f900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cdc5a7d4-069a-42ae-bca5-b371c217ed8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADD </value>
+      <webElementGuid>afa7c599-d311-42a3-88bb-282dd5cf2c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FWLookupGrid&quot;)/igx-grid-toolbar[@class=&quot;igx-grid-toolbar ng-star-inserted&quot;]/div[@class=&quot;igx-grid-toolbar__custom-content ng-star-inserted&quot;]/div[@class=&quot;action-area ng-star-inserted&quot;]/ul[@class=&quot;btn-action-list&quot;]/li[@class=&quot;ng-star-inserted&quot;]/a[1]/button[@class=&quot;btn-primary igx-button--flat&quot;]</value>
+      <webElementGuid>39f94123-3980-4727-a72e-8f4b032adb3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//igx-grid[@id='FWLookupGrid']/igx-grid-toolbar/div/div/ul/li/a/button</value>
+      <webElementGuid>af5e7126-4bdc-44ec-997e-f9e8330c037a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOOKUP'])[2]/following::button[1]</value>
+      <webElementGuid>5e89706d-0bef-411c-8a1b-1d0da9ad2b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rework Report'])[1]/following::button[1]</value>
+      <webElementGuid>ba099c5a-0292-43f7-9f4f-8098fd5f62ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[1]/preceding::button[4]</value>
+      <webElementGuid>a440400f-a1bd-40e2-97e6-84acedd5e8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::button[4]</value>
+      <webElementGuid>365d7010-7e38-4bf5-906e-4bee7d1eb34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ADD']/parent::*</value>
+      <webElementGuid>be997bc9-1a0a-42da-a95f-10f15750077e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>5f3e0d2b-6a54-4496-a546-b01d290a33b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'ADD ' or . = 'ADD ')]</value>
+      <webElementGuid>2208d41f-a331-451e-a4b2-d181f596d2fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

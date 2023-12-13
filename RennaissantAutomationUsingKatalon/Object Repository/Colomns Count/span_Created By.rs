@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Created By</name>
+   <tag></tag>
+   <elementGuidId>e8e9ba7a-484e-4f71-a0a2-6d92c8b9672e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//igx-grid-header-group[@id='FWLookupGrid_-1_0_9']/igx-grid-header/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FWLookupGrid_-1_0_9 > igx-grid-header.igx-grid__th.igx-grid__th--fw.igx-grid__th--sortable.igx-drag.igx-drag--select-disabled.ng-star-inserted > span.igx-grid__th-title > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e863377f-decd-4be4-bae0-bd18546dba8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Created By</value>
+      <webElementGuid>b6b47053-a8f5-42f0-bd76-cd8704ead447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>18ab1fb6-6536-475b-891d-2cbce46ce216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created By</value>
+      <webElementGuid>ef5ac35c-3fb8-48ca-b8f0-4b799e8d6773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FWLookupGrid_-1_0_9&quot;)/igx-grid-header[@class=&quot;igx-grid__th igx-grid__th--fw igx-grid__th--sortable igx-drag igx-drag--select-disabled ng-star-inserted&quot;]/span[@class=&quot;igx-grid__th-title&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>e430c0e6-23c7-4705-967a-7056038b0b90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//igx-grid-header-group[@id='FWLookupGrid_-1_0_9']/igx-grid-header/span/span</value>
+      <webElementGuid>e1546f52-7fc3-4b9a-84ff-09ec72e8be03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//igx-grid-header-group[6]/igx-grid-header/span/span</value>
+      <webElementGuid>e1101703-75ce-4de0-8567-828a61446e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Created By' and (text() = 'Created By' or . = 'Created By')]</value>
+      <webElementGuid>453cf5c3-f881-48e1-930a-babc99b72f8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

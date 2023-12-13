@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that look up with already exisitng code cannot be added</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7006add-7cea-4015-b371-443680edb63f</testCaseGuid>
+</TestCaseEntity>

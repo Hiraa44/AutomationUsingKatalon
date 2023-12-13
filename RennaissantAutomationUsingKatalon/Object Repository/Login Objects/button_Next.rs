@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>a73cf422-39dd-4c56-89e3-6228e737010c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-primary.btn-block.igx-button--flat</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>72f2c05e-7b92-4bd8-aee7-b76028f8725f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>igxbutton</name>
+      <type>Main</type>
+      <value>flat</value>
+      <webElementGuid>97fefd55-6993-4800-85db-05b7870a7e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary btn-block igx-button--flat</value>
+      <webElementGuid>208558b9-2547-4538-9fa0-8ebd2fc4bdef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a6036c95-4231-4343-8fd9-16681eadf0fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next </value>
+      <webElementGuid>f6c8590a-1907-42aa-8afa-abd8da1e0f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/app-auth-layout[1]/div[@class=&quot;app-auth-content h-100&quot;]/app-login-layout[1]/div[@class=&quot;login-wrap&quot;]/div[@class=&quot;login-inner page-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;login-form-wrap&quot;]/div[@class=&quot;login-form&quot;]/app-login[1]/div[1]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn-primary btn-block igx-button--flat&quot;]</value>
+      <webElementGuid>072558d3-1c48-4395-89e7-e41e67e632d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button</value>
+      <webElementGuid>47415872-e293-4de6-8c5c-c3dfcaf27662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Next ' or . = ' Next ')]</value>
+      <webElementGuid>0dfeed29-be8e-4d25-952f-6d478b383136</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

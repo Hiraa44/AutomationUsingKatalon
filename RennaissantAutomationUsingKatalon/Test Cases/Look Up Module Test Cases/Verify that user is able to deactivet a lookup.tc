@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user is able to deactivet a lookup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>668761e9-aec8-4029-aa79-a94d0603df99</testCaseGuid>
+</TestCaseEntity>
